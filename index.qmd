@@ -1,0 +1,37 @@
+---
+title: "Anna Persson, PhD"
+image: images/profilepic.png
+about:
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:anna.persson@iln.uio.no
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=y4uZ97gAAAAJ&hl=sv
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Anna-Persson-4
+---
+
+My research interests broadly concern how vowel systems are shaped and understood — from their acoustic characteristics and perception to the cognitive mechanisms that support stable processing across talkers, and the forces that drive patterns of variation and change. My PhD examined how listeners recognise spoken language despite cross-talker variability, with a focus on vowel normalization as a candidate mechanism for rapid and accurate speech perception; I combined acoustic analysis, computational modelling, and perception experiments to evaluate how normalization affects the perception of Swedish and English vowels, alongside descriptive acoustic analyses of the contemporary Central Swedish vowel space.
+
+I now work  at the University of Oslo on the [ICONIC project](https://www.hf.uio.no/iln/english/research/projects/iconic/) which investigates how iconicity—the resemblance between linguistic form and meaning—can emerge and stabilise in human speech through cultural evolution, using experimental methods to understand how form–meaning relationships arise and persist over time in speech systems.
+
+## Brief background
+
+* Postdoctoral fellow in linguistics (Nov 2025-), Department of Linguistics and Scandinavian Studies, University of Oslo, Norway
+* Senior Lecturer in Bilingualism (2025, Aug-Dec), Centre for Research on Bilingualism, Stockholm University, Sweden
+* PhD in Scandinavian Languages (2025), Stockholm University, Sweden
+* Lecturer in Swedish as a Second Language (2017-2025 July; full time leave for PhD studies 2019 Jan - 2024 Oct), Department of Swedish Language and Multilingualism, Stockholm University, Sweden
+* MA of Philosophy, Swedish as a Second Language (2019), Stockholm University, Sweden
+* MA of Education, Swedish as a Second Language, Spanish, French (2010), University of Gothenburg, Sweden
+
+  
+
+
+
+

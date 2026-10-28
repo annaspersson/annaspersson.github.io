@@ -1,0 +1,42 @@
+---
+title: "Research"
+format: html
+editor: visual
+---
+
+# Monographs
+
+Persson, A. 2024a. Comparing theories of pre-linguistic normalization for vowel perception. Dissertation in Scandinavian Languages. Stockholm: Stockholm University. <https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-234282>
+
+# Journal articles
+
+## Under review
+
+Persson, A. Sound change in the Central Swedish vowel space: a nuanced tale.
+
+## Published
+
+Persson, A., Barreda, S. & Jaeger, T.F. 2025. Comparing accounts of formant normalization against US English listeners’ vowel perception. Journal of the Acoustical Society of America. Vol. 157, No. 2, 1458-1482. <https://doi.org/10.1121/10.0035476> 
+
+Persson, A. 2024. The acoustic characteristics of Swedish vowels. Phonetica. Vol. 81, No. 6, 01-45. <https://doi.org/10.1515/phon-2024-0011> 
+
+Persson, A. & Jaeger, T. F. 2023. Evaluating normalization accounts against the dense vowel space of Central Swedish. Frontiers in Psychology. Vol. 14, 01-21. <https://doi.org/10.3389/fpsyg.2023.1165742>
+
+# Conference proceedings (peer-reviewed)
+
+## Under review
+
+Canamaque Varona, E., Persson, A., Winter, B. & Roettger, T. Sound symbolism emerges and stabilizes in an iterative learning experiment. 
+
+Persson, A. & Roettger, T. Production and perception biases can lead to the emergence of sound symbolism—evidence from computational models.
+
+## Published
+
+Persson, A. & Jaeger, T.F. 2024. Measuring the informativity of F3 for rounded and unrounded high-front vowels in Central Swedish. Proceedings from FONETIK 2024, Stockholm, June 3-5, 2024, 13-18. <https://doi.org/10.5281/zenodo.11396050> 
+
+Persson, A. & Jaeger, T. F. 2023. Comparing pre-linguistic normalization models against US English listeners' perception of natural and resynthesized vowels. 184th Meeting of the Acoustical Society of America. Journal of the Acoustical Society of America. 153, A77 <https://doi.org/10.1121/10.0018219> \[published abstract\] 
+
+Persson, A. & Jaeger, T. F. 2023. Comparing pre-linguistic normalization models against US English listeners' vowel perception. 184th Meeting of the Acoustical Society of America. Journal of the Acoustical Society of America. 153, A77 <https://doi.org/10.1121/10.0018218> \[published abstract\] 
+
+Persson, A. & Jaeger, T. F. 2023. Evaluating normalization accounts against the dense vowel space of Stockholm Swedish. 184th Meeting of the Acoustical Society of America. Journal of the Acoustical Society of America. 153, A370 <https://doi.org/10.1121/10.0019201> \[published abstract\]
+

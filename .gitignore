@@ -1,0 +1,10 @@
+/.quarto/
+**/*.quarto_ipynb
+*.html
+*.json
+*.lua
+*.js
+*_extensions
+*_site
+*.DS_Store
+
